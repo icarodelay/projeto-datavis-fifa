@@ -1,0 +1,1044 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "club": "FC Barcelona"
+        },
+        {
+            "id": 1,
+            "club": "Manchester City"
+        },
+        {
+            "id": 2,
+            "club": "Inter"
+        },
+        {
+            "id": 3,
+            "club": "RB Leipzig"
+        },
+        {
+            "id": 4,
+            "club": "Bayer 04 Leverkusen"
+        },
+        {
+            "id": 5,
+            "club": "Juventus"
+        },
+        {
+            "id": 6,
+            "club": "Valencia CF"
+        },
+        {
+            "id": 7,
+            "club": "FC Bayern München"
+        },
+        {
+            "id": 8,
+            "club": "Ajax"
+        },
+        {
+            "id": 9,
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "id": 10,
+            "club": "Cagliari"
+        },
+        {
+            "id": 11,
+            "club": "Sporting CP"
+        },
+        {
+            "id": 12,
+            "club": "Sevilla FC"
+        },
+        {
+            "id": 13,
+            "club": "Napoli"
+        },
+        {
+            "id": 14,
+            "club": "Borussia Dortmund"
+        },
+        {
+            "id": 15,
+            "club": "Tottenham Hotspur"
+        },
+        {
+            "id": 16,
+            "club": "Real Madrid"
+        },
+        {
+            "id": 17,
+            "club": "Real Sociedad"
+        },
+        {
+            "id": 18,
+            "club": "Chelsea"
+        },
+        {
+            "id": 19,
+            "club": "Atlético Madrid"
+        },
+        {
+            "id": 20,
+            "club": "Montpellier HSC"
+        },
+        {
+            "id": 21,
+            "club": "Roma"
+        },
+        {
+            "id": 22,
+            "club": "UD Las Palmas"
+        },
+        {
+            "id": 23,
+            "club": "SL Benfica"
+        },
+        {
+            "id": 24,
+            "club": "Guangzhou R&F FC"
+        },
+        {
+            "id": 25,
+            "club": "Fenerbahçe SK"
+        },
+        {
+            "id": 26,
+            "club": "Wolverhampton Wanderers"
+        },
+        {
+            "id": 27,
+            "club": "Leicester City"
+        },
+        {
+            "id": 28,
+            "club": "Zenit St. Petersburg"
+        },
+        {
+            "id": 29,
+            "club": "Milan"
+        },
+        {
+            "id": 30,
+            "club": "Guangzhou Evergrande Taobao FC"
+        },
+        {
+            "id": 31,
+            "club": "Sheffield United"
+        },
+        {
+            "id": 32,
+            "club": "Southampton"
+        },
+        {
+            "id": 33,
+            "club": "Lokomotiv Moscow"
+        },
+        {
+            "id": 34,
+            "club": "SD Eibar"
+        },
+        {
+            "id": 35,
+            "club": "Getafe CF"
+        },
+        {
+            "id": 36,
+            "club": "CSA - AL"
+        },
+        {
+            "id": 37,
+            "club": "Bournemouth"
+        },
+        {
+            "id": 38,
+            "club": "RC Celta"
+        },
+        {
+            "id": 39,
+            "club": "AS Saint-Étienne"
+        },
+        {
+            "id": 40,
+            "club": "Angers SCO"
+        },
+        {
+            "id": 41,
+            "club": "AS Monaco"
+        },
+        {
+            "id": 42,
+            "club": "Kasimpaşa SK"
+        },
+        {
+            "id": 43,
+            "club": "Aston Villa"
+        },
+        {
+            "id": 44,
+            "club": "Trabzonspor"
+        },
+        {
+            "id": 45,
+            "club": "Olympique Lyonnais"
+        },
+        {
+            "id": 46,
+            "club": "FC Krasnodar"
+        },
+        {
+            "id": 47,
+            "club": "Lazio"
+        },
+        {
+            "id": 48,
+            "club": "Beşiktaş JK"
+        },
+        {
+            "id": 49,
+            "club": "Watford"
+        },
+        {
+            "id": 50,
+            "club": "SV Werder Bremen"
+        },
+        {
+            "id": 51,
+            "club": "CD Leganés"
+        },
+        {
+            "id": 52,
+            "club": "LOSC Lille"
+        },
+        {
+            "id": 53,
+            "club": "Villarreal CF"
+        },
+        {
+            "id": 54,
+            "club": "Liverpool"
+        },
+        {
+            "id": 55,
+            "club": "Inter Miami"
+        },
+        {
+            "id": 56,
+            "club": "Al Shabab"
+        },
+        {
+            "id": 57,
+            "club": "Everton"
+        },
+        {
+            "id": 58,
+            "club": "Manchester United"
+        },
+        {
+            "id": 59,
+            "club": "Arsenal"
+        },
+        {
+            "id": 60,
+            "club": "Fulham"
+        },
+        {
+            "id": 61,
+            "club": "Leeds United"
+        },
+        {
+            "id": 62,
+            "club": "Beijing Sinobo Guoan FC"
+        },
+        {
+            "id": 63,
+            "club": "PSV"
+        },
+        {
+            "id": 64,
+            "club": "1. FC Union Berlin"
+        },
+        {
+            "id": 65,
+            "club": "West Bromwich Albion"
+        },
+        {
+            "id": 66,
+            "club": "FC Groningen"
+        },
+        {
+            "id": 67,
+            "club": "Fiorentina"
+        },
+        {
+            "id": 68,
+            "club": "Hebei China Fortune FC"
+        },
+        {
+            "id": 69,
+            "club": "Real Valladolid CF"
+        },
+        {
+            "id": 70,
+            "club": "Coritiba"
+        },
+        {
+            "id": 71,
+            "club": "Newcastle United"
+        },
+        {
+            "id": 72,
+            "club": "Olympiacos CFP"
+        },
+        {
+            "id": 73,
+            "club": "SC Freiburg"
+        },
+        {
+            "id": 74,
+            "club": "Atalanta"
+        },
+        {
+            "id": 75,
+            "club": "Vitória Guimarães"
+        },
+        {
+            "id": 76,
+            "club": "OGC Nice"
+        },
+        {
+            "id": 77,
+            "club": "Granada CF"
+        },
+        {
+            "id": 78,
+            "club": "Os Belenenses"
+        },
+        {
+            "id": 79,
+            "club": "Spartak Moscow"
+        },
+        {
+            "id": 80,
+            "club": "CA Osasuna"
+        },
+        {
+            "id": 81,
+            "club": "Sampdoria"
+        },
+        {
+            "id": 82,
+            "club": "Crystal Palace"
+        },
+        {
+            "id": 83,
+            "club": "Brighton & Hove Albion"
+        },
+        {
+            "id": 84,
+            "club": "TSG 1899 Hoffenheim"
+        },
+        {
+            "id": 85,
+            "club": "Fatih Karagümrük S.K."
+        },
+        {
+            "id": 86,
+            "club": "SC Braga"
+        }
+    ],
+    "links": [
+        {
+            "source": "FC Barcelona",
+            "target": "Atlético Madrid",
+            "value": "€53M"
+        },
+        {
+            "source": "Manchester City",
+            "target": "Real Sociedad",
+            "value": "€30.5M"
+        },
+        {
+            "source": "Manchester City",
+            "target": "FC Bayern München",
+            "value": "€58M"
+        },
+        {
+            "source": "Inter",
+            "target": "Cagliari",
+            "value": "€24M"
+        },
+        {
+            "source": "RB Leipzig",
+            "target": "Chelsea",
+            "value": "€57.5M"
+        },
+        {
+            "source": "Bayer 04 Leverkusen",
+            "target": "Chelsea",
+            "value": "€48.5M"
+        },
+        {
+            "source": "Juventus",
+            "target": "FC Barcelona",
+            "value": "€42.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Villarreal CF",
+            "value": "€46.5M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "Liverpool",
+            "value": "€44M"
+        },
+        {
+            "source": "Ajax",
+            "target": "Chelsea",
+            "value": "€52M"
+        },
+        {
+            "source": "Paris Saint-Germain",
+            "target": "Chelsea",
+            "value": "€18.5M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Juventus",
+            "value": "€50.5M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Inter",
+            "value": "€23.5M"
+        },
+        {
+            "source": "Cagliari",
+            "target": "Inter",
+            "value": "€27.5M"
+        },
+        {
+            "source": "Juventus",
+            "target": "Inter Miami",
+            "value": "€34.5M"
+        },
+        {
+            "source": "Sporting CP",
+            "target": "Sevilla FC",
+            "value": "€20M"
+        },
+        {
+            "source": "Sevilla FC",
+            "target": "Al Shabab",
+            "value": "€26.5M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Wolverhampton Wanderers",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Napoli",
+            "target": "Everton",
+            "value": "€31M"
+        },
+        {
+            "source": "Borussia Dortmund",
+            "target": "Inter",
+            "value": "€30M"
+        },
+        {
+            "source": "Tottenham Hotspur",
+            "target": "SL Benfica",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Juventus",
+            "target": "Inter Miami",
+            "value": "€20.5M"
+        },
+        {
+            "source": "Real Madrid",
+            "target": "Tottenham Hotspur",
+            "value": "€37.5M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "FC Barcelona",
+            "value": "€40.5M"
+        },
+        {
+            "source": "Ajax",
+            "target": "Manchester United",
+            "value": "€33M"
+        },
+        {
+            "source": "Real Sociedad",
+            "target": "Real Madrid",
+            "value": "€30.5M"
+        },
+        {
+            "source": "Chelsea",
+            "target": "Arsenal",
+            "value": "€21M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Sevilla FC",
+            "value": "€33M"
+        },
+        {
+            "source": "Real Madrid",
+            "target": "Fulham",
+            "value": "€21M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "Inter",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Atlético Madrid",
+            "target": "Juventus",
+            "value": "€31M"
+        },
+        {
+            "source": "Real Madrid",
+            "target": "Everton",
+            "value": "€32.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Leeds United",
+            "value": "€27M"
+        },
+        {
+            "source": "Montpellier HSC",
+            "target": "Villarreal CF",
+            "value": "€16M"
+        },
+        {
+            "source": "Sevilla FC",
+            "target": "Tottenham Hotspur",
+            "value": "€18.5M"
+        },
+        {
+            "source": "Roma",
+            "target": "Inter",
+            "value": "€10M"
+        },
+        {
+            "source": "UD Las Palmas",
+            "target": "Beijing Sinobo Guoan FC",
+            "value": "€17.5M"
+        },
+        {
+            "source": "SL Benfica",
+            "target": "Manchester City",
+            "value": "€27.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Manchester City",
+            "value": "€19M"
+        },
+        {
+            "source": "Atlético Madrid",
+            "target": "Bayer 04 Leverkusen",
+            "value": "€11M"
+        },
+        {
+            "source": "Paris Saint-Germain",
+            "target": "Borussia Dortmund",
+            "value": "€16M"
+        },
+        {
+            "source": "Guangzhou R&F FC",
+            "target": "PSV",
+            "value": "€16M"
+        },
+        {
+            "source": "Fenerbahçe SK",
+            "target": "1. FC Union Berlin",
+            "value": "€22.5M"
+        },
+        {
+            "source": "Bayer 04 Leverkusen",
+            "target": "AS Monaco",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Wolverhampton Wanderers",
+            "target": "Tottenham Hotspur",
+            "value": "€13M"
+        },
+        {
+            "source": "Leicester City",
+            "target": "Chelsea",
+            "value": "€20.5M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Atlético Madrid",
+            "value": "€53M"
+        },
+        {
+            "source": "Manchester City",
+            "target": "Real Sociedad",
+            "value": "€30.5M"
+        },
+        {
+            "source": "Manchester City",
+            "target": "FC Bayern München",
+            "value": "€58M"
+        },
+        {
+            "source": "Inter",
+            "target": "Cagliari",
+            "value": "€24M"
+        },
+        {
+            "source": "RB Leipzig",
+            "target": "Chelsea",
+            "value": "€57.5M"
+        },
+        {
+            "source": "Bayer 04 Leverkusen",
+            "target": "Chelsea",
+            "value": "€48.5M"
+        },
+        {
+            "source": "Juventus",
+            "target": "FC Barcelona",
+            "value": "€42.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Villarreal CF",
+            "value": "€46.5M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "Liverpool",
+            "value": "€44M"
+        },
+        {
+            "source": "Ajax",
+            "target": "Chelsea",
+            "value": "€52M"
+        },
+        {
+            "source": "Paris Saint-Germain",
+            "target": "Chelsea",
+            "value": "€18.5M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Juventus",
+            "value": "€50.5M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Inter",
+            "value": "€23.5M"
+        },
+        {
+            "source": "Cagliari",
+            "target": "Inter",
+            "value": "€27.5M"
+        },
+        {
+            "source": "Juventus",
+            "target": "Inter Miami",
+            "value": "€34.5M"
+        },
+        {
+            "source": "Sporting CP",
+            "target": "Sevilla FC",
+            "value": "€20M"
+        },
+        {
+            "source": "Sevilla FC",
+            "target": "Al Shabab",
+            "value": "€26.5M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Wolverhampton Wanderers",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Napoli",
+            "target": "Everton",
+            "value": "€31M"
+        },
+        {
+            "source": "Borussia Dortmund",
+            "target": "Inter",
+            "value": "€30M"
+        },
+        {
+            "source": "Tottenham Hotspur",
+            "target": "SL Benfica",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Juventus",
+            "target": "Inter Miami",
+            "value": "€20.5M"
+        },
+        {
+            "source": "Real Madrid",
+            "target": "Tottenham Hotspur",
+            "value": "€37.5M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "FC Barcelona",
+            "value": "€40.5M"
+        },
+        {
+            "source": "Ajax",
+            "target": "Manchester United",
+            "value": "€33M"
+        },
+        {
+            "source": "Real Sociedad",
+            "target": "Real Madrid",
+            "value": "€30.5M"
+        },
+        {
+            "source": "Chelsea",
+            "target": "Arsenal",
+            "value": "€21M"
+        },
+        {
+            "source": "FC Barcelona",
+            "target": "Sevilla FC",
+            "value": "€33M"
+        },
+        {
+            "source": "Real Madrid",
+            "target": "Fulham",
+            "value": "€21M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "Inter",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Atlético Madrid",
+            "target": "Juventus",
+            "value": "€31M"
+        },
+        {
+            "source": "Real Madrid",
+            "target": "Everton",
+            "value": "€32.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Leeds United",
+            "value": "€27M"
+        },
+        {
+            "source": "Montpellier HSC",
+            "target": "Villarreal CF",
+            "value": "€16M"
+        },
+        {
+            "source": "Sevilla FC",
+            "target": "Tottenham Hotspur",
+            "value": "€18.5M"
+        },
+        {
+            "source": "Roma",
+            "target": "Inter",
+            "value": "€10M"
+        },
+        {
+            "source": "UD Las Palmas",
+            "target": "Beijing Sinobo Guoan FC",
+            "value": "€17.5M"
+        },
+        {
+            "source": "SL Benfica",
+            "target": "Manchester City",
+            "value": "€27.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Manchester City",
+            "value": "€19M"
+        },
+        {
+            "source": "Atlético Madrid",
+            "target": "Bayer 04 Leverkusen",
+            "value": "€11M"
+        },
+        {
+            "source": "Paris Saint-Germain",
+            "target": "Borussia Dortmund",
+            "value": "€16M"
+        },
+        {
+            "source": "Guangzhou R&F FC",
+            "target": "PSV",
+            "value": "€16M"
+        },
+        {
+            "source": "Fenerbahçe SK",
+            "target": "1. FC Union Berlin",
+            "value": "€22.5M"
+        },
+        {
+            "source": "Bayer 04 Leverkusen",
+            "target": "AS Monaco",
+            "value": "€24.5M"
+        },
+        {
+            "source": "Wolverhampton Wanderers",
+            "target": "Tottenham Hotspur",
+            "value": "€13M"
+        },
+        {
+            "source": "Leicester City",
+            "target": "Chelsea",
+            "value": "€20.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Paris Saint-Germain",
+            "value": "€15M"
+        },
+        {
+            "source": "Zenit St. Petersburg",
+            "target": "West Bromwich Albion",
+            "value": "€9M"
+        },
+        {
+            "source": "Atlético Madrid",
+            "target": "Sporting CP",
+            "value": "€11M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "FC Groningen",
+            "value": "€13M"
+        },
+        {
+            "source": "Chelsea",
+            "target": "Roma",
+            "value": "€13M"
+        },
+        {
+            "source": "Milan",
+            "target": "Fiorentina",
+            "value": "€17M"
+        },
+        {
+            "source": "Guangzhou Evergrande Taobao FC",
+            "target": "Hebei China Fortune FC",
+            "value": "€14.5M"
+        },
+        {
+            "source": "Valencia CF",
+            "target": "Villarreal CF",
+            "value": "€14.5M"
+        },
+        {
+            "source": "Wolverhampton Wanderers",
+            "target": "Liverpool",
+            "value": "€20.5M"
+        },
+        {
+            "source": "Sheffield United",
+            "target": "Manchester United",
+            "value": "€14.5M"
+        },
+        {
+            "source": "Southampton",
+            "target": "Tottenham Hotspur",
+            "value": "€16.5M"
+        },
+        {
+            "source": "Lokomotiv Moscow",
+            "target": "Inter",
+            "value": "€20.5M"
+        },
+        {
+            "source": "Manchester City",
+            "target": "SL Benfica",
+            "value": "€11M"
+        },
+        {
+            "source": "SD Eibar",
+            "target": "Real Valladolid CF",
+            "value": "€7.5M"
+        },
+        {
+            "source": "Roma",
+            "target": "Manchester United",
+            "value": "€15M"
+        },
+        {
+            "source": "FC Bayern München",
+            "target": "Real Madrid",
+            "value": "€15M"
+        },
+        {
+            "source": "Getafe CF",
+            "target": "Sporting CP",
+            "value": "€8M"
+        },
+        {
+            "source": "CSA - AL",
+            "target": "Coritiba",
+            "value": "€12M"
+        },
+        {
+            "source": "Bournemouth",
+            "target": "Newcastle United",
+            "value": "€15M"
+        },
+        {
+            "source": "RC Celta",
+            "target": "FC Barcelona",
+            "value": "€21M"
+        },
+        {
+            "source": "AS Saint-Étienne",
+            "target": "Olympiacos CFP",
+            "value": "€11M"
+        },
+        {
+            "source": "Angers SCO",
+            "target": "SC Freiburg",
+            "value": "€15M"
+        },
+        {
+            "source": "AS Monaco",
+            "target": "Chelsea",
+            "value": "€16.5M"
+        },
+        {
+            "source": "Lokomotiv Moscow",
+            "target": "Atalanta",
+            "value": "€17M"
+        },
+        {
+            "source": "Kasimpaşa SK",
+            "target": "Vitória Guimarães",
+            "value": "€5.5M"
+        },
+        {
+            "source": "Aston Villa",
+            "target": "Lazio",
+            "value": "€2.5M"
+        },
+        {
+            "source": "Bournemouth",
+            "target": "Manchester City",
+            "value": "€17.5M"
+        },
+        {
+            "source": "Trabzonspor",
+            "target": "Fenerbahçe SK",
+            "value": "€7M"
+        },
+        {
+            "source": "Sevilla FC",
+            "target": "OGC Nice",
+            "value": "€17M"
+        },
+        {
+            "source": "Olympique Lyonnais",
+            "target": "Milan",
+            "value": "€7M"
+        },
+        {
+            "source": "Getafe CF",
+            "target": "Granada CF",
+            "value": "€5.5M"
+        },
+        {
+            "source": "Chelsea",
+            "target": "Aston Villa",
+            "value": "€16M"
+        },
+        {
+            "source": "FC Krasnodar",
+            "target": "Os Belenenses",
+            "value": "€11M"
+        },
+        {
+            "source": "Zenit St. Petersburg",
+            "target": "Spartak Moscow",
+            "value": "€17.5M"
+        },
+        {
+            "source": "Lazio",
+            "target": "CA Osasuna",
+            "value": "€13M"
+        },
+        {
+            "source": "Bournemouth",
+            "target": "Newcastle United",
+            "value": "€13.5M"
+        },
+        {
+            "source": "Beşiktaş JK",
+            "target": "LOSC Lille",
+            "value": "€8M"
+        },
+        {
+            "source": "Watford",
+            "target": "Everton",
+            "value": "€16.5M"
+        },
+        {
+            "source": "Inter",
+            "target": "Sampdoria",
+            "value": "€10M"
+        },
+        {
+            "source": "Chelsea",
+            "target": "Crystal Palace",
+            "value": "€16M"
+        },
+        {
+            "source": "Ajax",
+            "target": "Brighton & Hove Albion",
+            "value": "€12.5M"
+        },
+        {
+            "source": "SV Werder Bremen",
+            "target": "TSG 1899 Hoffenheim",
+            "value": "€11.5M"
+        },
+        {
+            "source": "Milan",
+            "target": "Fatih Karagümrük S.K.",
+            "value": "€6M"
+        },
+        {
+            "source": "CD Leganés",
+            "target": "Sevilla FC",
+            "value": "€11.5M"
+        },
+        {
+            "source": "LOSC Lille",
+            "target": "SC Braga",
+            "value": "€11M"
+        },
+        {
+            "source": "Sporting CP",
+            "target": "Fatih Karagümrük S.K.",
+            "value": "€12M"
+        }
+    ]
+}
